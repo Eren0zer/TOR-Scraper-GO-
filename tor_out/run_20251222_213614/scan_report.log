@@ -1,0 +1,34 @@
+2025-12-22 21:36:14 [INFO] Tor Scraper started. out=C:\tor_out\run_20251222_213614 proxy=127.0.0.1:9150 timeout=1m0s concurrency=1 screenshot=true
+2025-12-22 21:36:15 [INFO] Tor IP check: ip=45.84.107.101 is_tor=true (via check.torproject.org/api/ip)
+2025-12-22 21:36:15 [INFO] Loaded 14 unique targets from .\targets.yaml
+2025-12-22 21:36:15 [INFO] screenshot engine: C:\Program Files\Google\Chrome\Application\chrome.exe
+2025-12-22 21:36:15 [INFO] Scanning: http://q5caebfvynd7ovqd.onion/
+2025-12-22 21:36:15 [ERR]  Scanning: http://q5caebfvynd7ovqd.onion/ -> FAIL (Get "http://q5caebfvynd7ovqd.onion/": socks connect tcp 127.0.0.1:9150->q5caebfvynd7ovqd.onion:80: unknown error unknown code: 246)
+2025-12-22 21:36:15 [INFO] Scanning: http://qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion/
+2025-12-22 21:36:20 [INFO] Done: http://qu4uozvpw62pjikawmrwds7kanyz3iytnh5pnhscd3pr3krihyejpgyd.onion/ -> SUCCESS (status=200 bytes=10077 dur=568ms)
+2025-12-22 21:36:20 [INFO] Scanning: http://rabbitholen2e2u335zvvqubf4732vq6xi2sxyiuy5uk75mysn4o62ad.onion/
+2025-12-22 21:36:26 [INFO] Done: http://rabbitholen2e2u335zvvqubf4732vq6xi2sxyiuy5uk75mysn4o62ad.onion/ -> SUCCESS (status=200 bytes=1029 dur=1001ms)
+2025-12-22 21:36:26 [INFO] Scanning: http://rambleeeo4vhxgorpmgunoo276nkiw7bos74cg7tjlgnb3puj3d7ghad.onion/
+2025-12-22 21:36:29 [ERR]  Scanning: http://rambleeeo4vhxgorpmgunoo276nkiw7bos74cg7tjlgnb3puj3d7ghad.onion/ -> FAIL (Get "http://rambleeeo4vhxgorpmgunoo276nkiw7bos74cg7tjlgnb3puj3d7ghad.onion/": socks connect tcp 127.0.0.1:9150->rambleeeo4vhxgorpmgunoo276nkiw7bos74cg7tjlgnb3puj3d7ghad.onion:80: unknown error unknown code: 240)
+2025-12-22 21:36:29 [INFO] Scanning: http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion/
+2025-12-22 21:36:39 [INFO] Done: http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion/ -> SUCCESS (status=403 bytes=35326 dur=1501ms)
+2025-12-22 21:36:39 [INFO] Scanning: http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/
+2025-12-22 21:36:42 [INFO] Done: http://ransomwr3tsydeii4q43vazm7wofla5ujdajquitomtd47cxjtfgwyyd.onion/ -> SUCCESS (status=200 bytes=29008 dur=612ms)
+2025-12-22 21:36:42 [INFO] Scanning: http://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/
+2025-12-22 21:36:55 [INFO] Done: http://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/ -> SUCCESS (status=200 bytes=13859 dur=2277ms)
+2025-12-22 21:36:55 [INFO] Scanning: http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/
+2025-12-22 21:37:04 [INFO] Done: http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/ -> SUCCESS (status=200 bytes=11521 dur=953ms)
+2025-12-22 21:37:04 [INFO] Scanning: http://sectorsubceqqqtcjjskykkrgisaeatoy6nbivfmuxp4qbx77jy4sgid.onion/
+2025-12-22 21:37:10 [INFO] Done: http://sectorsubceqqqtcjjskykkrgisaeatoy6nbivfmuxp4qbx77jy4sgid.onion/ -> SUCCESS (status=200 bytes=39611 dur=3597ms)
+2025-12-22 21:37:10 [INFO] Scanning: http://shadoaoiniujrpbuvllr523m4wijm3e2vuuy2d5ski7tad2ne2ahgcad.onion/
+2025-12-22 21:37:40 [INFO] Done: http://shadoaoiniujrpbuvllr523m4wijm3e2vuuy2d5ski7tad2ne2ahgcad.onion/ -> SUCCESS (status=200 bytes=1698 dur=5846ms)
+2025-12-22 21:37:40 [INFO] Scanning: http://sizgon6th5lcefloid.onion/
+2025-12-22 21:37:40 [ERR]  Scanning: http://sizgon6th5lcefloid.onion/ -> FAIL (Get "http://sizgon6th5lcefloid.onion/": socks connect tcp 127.0.0.1:9150->sizgon6th5lcefloid.onion:80: unknown error unknown code: 246)
+2025-12-22 21:37:40 [INFO] Scanning: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/
+2025-12-22 21:37:46 [INFO] Done: http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/ -> SUCCESS (status=200 bytes=43014 dur=681ms)
+2025-12-22 21:37:46 [INFO] Scanning: http://thedude75pphneo4auknyvspskdmcj4xicbsnkvqgwhb4sfnmubkl5qd.onion/
+2025-12-22 21:37:51 [ERR]  Scanning: http://thedude75pphneo4auknyvspskdmcj4xicbsnkvqgwhb4sfnmubkl5qd.onion/ -> FAIL (Get "http://thedude75pphneo4auknyvspskdmcj4xicbsnkvqgwhb4sfnmubkl5qd.onion/": socks connect tcp 127.0.0.1:9150->thedude75pphneo4auknyvspskdmcj4xicbsnkvqgwhb4sfnmubkl5qd.onion:80: unknown error unknown code: 240)
+2025-12-22 21:37:51 [INFO] Scanning: http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/
+2025-12-22 21:38:16 [INFO] Done: http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/ -> SUCCESS (status=200 bytes=21768 dur=956ms)
+2025-12-22 21:38:16 [INFO] Finished. success=10 fail=4. Outputs: C:\tor_out\run_20251222_213614
+2025-12-22 21:38:16 [INFO] Report files: C:\tor_out\run_20251222_213614\scan_report.log , C:\tor_out\run_20251222_213614\scan_report.jsonl
