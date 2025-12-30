@@ -2,7 +2,7 @@
 
 Bu proje, yerel **Tor SOCKS5 proxy** üzerinden trafiği yönlendirerek `targets.yaml` içindeki `.onion` URL’lerini (ve/veya clearnet doğrulama URL’lerini) ziyaret eder, **HTML**’i kaydeder ve (opsiyonel) **screenshot** alır.
 
-> Bu ödevin amacı, CTI süreçlerinde “Collection/Automation” yetkinliği kazandırmak ve Tor üzerinden anonim veri toplama otomasyonudur. (Bkz. ödev dokümanı)  
+> Bu ödevin amacı, CTI süreçlerinde “Collection/Automation” yetkinliği kazandırmak ve Tor üzerinden anonim veri toplama otomasyonudur.
 
 ## 1) Klasör Yapısı
 
